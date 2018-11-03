@@ -1,0 +1,24 @@
+﻿@model IEnumerable<ParticularPresence.WeatherApplication.Models.WeatherData>
+@{
+    ViewBag.Title = "MontegoBayForcast";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="change">
+    <h2>Montego Bay 5 day Forcast</h2>
+</div>
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="change">
+                <h3>Date: @Html.DisplayFor(modelItem => item.dt_txt)</h3>
+            </div>
+            <div class="change">
+                <h4>Temperature: @Html.DisplayFor(modelItem => item.temp) °C</h4>
+            </div>
+            <div class="change">
+                <h4>Description: @Html.DisplayFor(modelItem => item.description)</h4>
+            </div>
+        </div>
+    }
+

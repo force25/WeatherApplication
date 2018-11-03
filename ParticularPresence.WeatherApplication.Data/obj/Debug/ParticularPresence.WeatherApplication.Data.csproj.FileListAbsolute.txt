@@ -1,0 +1,16 @@
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\ParticularPresence.WeatherApplication.Data.dll.config
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\ParticularPresence.WeatherApplication.Data.dll
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\ParticularPresence.WeatherApplication.Data.pdb
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\EntityFramework.dll
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\ParticularPresence.WeatherApplication.Models.dll
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\ParticularPresence.WeatherApplication.Models.pdb
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\EntityFramework.xml
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\obj\Debug\ParticularPresence.WeatherApplication.Data.csprojAssemblyReference.cache
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\obj\Debug\ParticularPresence.WeatherApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\obj\Debug\ParticularPresence.WeatherApplication.Data.csproj.CopyComplete
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\obj\Debug\ParticularPresence.WeatherApplication.Data.dll
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\obj\Debug\ParticularPresence.WeatherApplication.Data.pdb
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\obj\Debug\ParticularPresence.WeatherApplication.Data.Migrations.first.resources
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Data\obj\Debug\ParticularPresence.WeatherApplication.Data.csproj.GenerateResource.cache

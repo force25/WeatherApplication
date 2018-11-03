@@ -1,0 +1,6 @@
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Models\bin\Debug\ParticularPresence.WeatherApplication.Models.dll
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Models\bin\Debug\ParticularPresence.WeatherApplication.Models.pdb
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Models\obj\Debug\ParticularPresence.WeatherApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Models\obj\Debug\ParticularPresence.WeatherApplication.Models.dll
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Models\obj\Debug\ParticularPresence.WeatherApplication.Models.pdb
+C:\Users\jonfo\source\repos\ParticularPresence.WeatherApplication\ParticularPresence.WeatherApplication.Models\obj\Debug\ParticularPresence.WeatherApplication.Models.csprojAssemblyReference.cache
